@@ -1,0 +1,8 @@
+python-dotenv
+semantic-kernel==1.28.1
+openai
+ollama
+transformers
+torch
+sentence_transformers
+chainlit
