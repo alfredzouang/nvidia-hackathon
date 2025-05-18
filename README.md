@@ -1,0 +1,1 @@
+For remote mcp on azure functions, refer to [https://github.com/azure-samples/remote-mcp-functions-python/tree/main/](https://github.com/azure-samples/remote-mcp-functions-python/tree/main/)
